@@ -1,2 +1,2 @@
 # React-Story-Book
- A  best practice and approach to react  and story book
+ A  best practise and approach to react  and story book
